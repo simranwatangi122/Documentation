@@ -6,6 +6,9 @@
   "private": true,
   "license": "MIT",
   "scripts": {
+    "dev": "nest start --watch",
+    "dev:start": "nest start --watch",
+    "dev:server": "nest start --watch",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\"",
     "start": "nest start",

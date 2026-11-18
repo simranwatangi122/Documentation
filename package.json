@@ -5,6 +5,7 @@
   "description": "Full Stack Portfolio with React Frontend and NestJS Backend",
   "scripts": {
     "dev": "concurrently \"npm run dev --prefix frontend\" \"npm run start:dev --prefix backend\"",
+    "dev:start": "concurrently \"npm run dev --prefix frontend\" \"npm run start:dev --prefix backend\"",
     "dev:server": "npm run start:dev --prefix backend",
     "dev:client": "npm run dev --prefix frontend",
     "backend": "npm run start:dev --prefix backend",
