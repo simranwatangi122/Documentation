@@ -76,5 +76,5 @@ git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
 # 5. Push to GitHub
 git push -u origin main
 ```
-hello maine git seekh liya
+
 
