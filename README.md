@@ -1,4 +1,4 @@
-# Full Stack Portfolio (React + NestJS) 🚀
+git status# Full Stack Portfolio (React + NestJS) 🚀
 
 This is the main portfolio project folder containing both the **frontend** (React) and **backend** (NestJS) applications.
 
@@ -76,3 +76,5 @@ git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
 # 5. Push to GitHub
 git push -u origin main
 ```
+hello maine git seekh liya
+
